@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "P1WQcR2HaAZ7UWrUhC88W+egeJUIkLZ2xNeFNws51F6KLc38dCw9uxmCgTdH+A++mMKH1zQgPuWMimrwpM2H3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Frida\\Documents\\Visual Studio 2022\\UnderTheSea\\UnderTheSea\\UnderTheSea.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Frida\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\Frida\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.1\\microsoft.netcore.app.runtime.win-x64.8.0.1.nupkg.sha512",
+    "C:\\Users\\Frida\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.1\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.1.nupkg.sha512",
+    "C:\\Users\\Frida\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.1\\microsoft.aspnetcore.app.runtime.win-x64.8.0.1.nupkg.sha512",
+    "C:\\Users\\Frida\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.1\\microsoft.netcore.app.crossgen2.win-x64.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
